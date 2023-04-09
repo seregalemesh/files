@@ -1,0 +1,136 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="ext" ,Первый канал
+http://a3569458162-zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_4/bw2000000/playlist.m3u8?offset=-3600&utcstart=1634252400&version=2|user-agent= stagefright/1.2 (Linux;Android 4.0.3) Mozilla/5.0(iPad; U; CPU iPhone OS 3_2 like Mac OS X; en-us) AppleWebKit/531.21.10 (KHTML, like Gecko) Version/4.0.4 Mobile/7B314 Safari/531.21.10 QuickTime
+
+#EXTINF:-1 ,РЕН ТВ
+http://a3569458172-zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_4/bw2000000/playlist.m3u8?offset=-3600&utcstart=1634256000&version=2|user-agent= stagefright/1.2 (Linux;Android 4.0.3) Mozilla/5.0(iPad; U; CPU iPhone OS 3_2 like Mac OS X; en-us) AppleWebKit/531.21.10 (KHTML, like Gecko) Version/4.0.4 Mobile/7B314 Safari/531.21.10 QuickTime
+
+#EXTINF:-1 tvg-id="ext" group-title="ЭФИРНЫЕ"tvg-logo="smb://192.168.0.1/samba/usb1_1/it999_transparent_220x132/ТВ3.png",ТВ3
+http://a1311338245-zabava-htlive.cdn.ngenix.net/hls/CH_TV3_4/bw2000000/playlist.m3u8?offset=-3600&utcstart=1634256000&version=2|user-agent= stagefright/1.2 (Linux;Android 4.0.3) Mozilla/5.0(iPad; U; CPU iPhone OS 3_2 like Mac OS X; en-us) AppleWebKit/531.21.10 (KHTML, like Gecko) Version/4.0.4 Mobile/7B314 Safari/531.21.10 QuickTime
+
+#EXTINF:-1 tvg-id="ext" group-title="ЭФИРНЫЕ"tvg-logo="smb://192.168.0.1/samba/usb1_1/it999_transparent_220x132/СТС.png",СТС
+http://a775797012-zabava-htlive.cdn.ngenix.net/hls/CH_STS_4/bw2000000/playlist.m3u8?offset=-3600&utcstart=1643511600&version=2|user-agent= stagefright/1.2 (Linux;Android 4.0.3) Mozilla/5.0(iPad; U; CPU iPhone OS 3_2 like Mac OS X; en-us) AppleWebKit/531.21.10 (KHTML, like Gecko) Version/4.0.4 Mobile/7B314 Safari/531.21.10 QuickTime
+
+#EXTINF:-1 tvg-id="ext" group-title="ЭФИРНЫЕ"tvg-logo="smb://192.168.0.1/samba/usb1_1/it999_transparent_220x132/Звезда.png", Звезда
+http://a787201481-zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_4/bw2000000/playlist.m3u8?offset=-3600&utcstart=1634256000&version=2|user-agent=stagefright/1.2 (Linux;Android 4.0.3) Mozilla/5.0(iPad; U; CPU iPhone OS 3_2 like Mac OS X; en-us) AppleWebKit/531.21.10 (KHTML, like Gecko) Version/4.0.4 Mobile/7B314 Safari/531.21.10 QuickTime
+
+#EXTINF:-1 tvg-id="ext" group-title="ЭФИРНЫЕ"tvg-logo="smb://192.168.0.1/samba/usb1_1/it999_transparent_220x132/Пятница!.png", Пятница!
+http://a3569458679-zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA_4/bw2000000/playlist.m3u8?offset=-3600&utcstart=1634256000&version=2|user-agent= stagefright/1.2 (Linux;Android 4.0.3) Mozilla/5.0(iPad; U; CPU iPhone OS 3_2 like Mac OS X; en-us) AppleWebKit/531.21.10 (KHTML, like Gecko) Version/4.0.4 Mobile/7B314 Safari/531.21.10 QuickTime
+
+#EXTINF:-1 tvg-id="ext" group-title="ЭФИРНЫЕ"tvg-logo="smb://192.168.0.1/samba/usb1_1/it999_transparent_220x132/ТНТ.png",ТНТ
+http://a787201477-zabava-htlive.cdn.ngenix.net/hls/CH_TNT_4/bw2000000/playlist.m3u8?offset=-3600&utcstart=1634256000&version=2|user-agent= stagefright/1.2 (Linux;Android 4.0.3) Mozilla/5.0(iPad; U; CPU iPhone OS 3_2 like Mac OS X; en-us) AppleWebKit/531.21.10 (KHTML, like Gecko) Version/4.0.4 Mobile/7B314 Safari/531.21.10 QuickTime
+
+#EXTINF:-1 tvg-id="ext" group-title="ЭФИРНЫЕ"tvg-logo="smb://192.168.0.1/samba/usb1_1/it999_transparent_220x132/Мир.png",Мир
+http://a3569458679-zabava-htlive.cdn.ngenix.net/hls/CH_MIR_4/bw2000000/playlist.m3u8?offset=-3600&utcstart=1634256000&version=2|user-agent= stagefright/1.2 (Linux;Android 4.0.3) Mozilla/5.0(iPad; U; CPU iPhone OS 3_2 like Mac OS X; en-us) AppleWebKit/531.21.10 (KHTML, like Gecko) Version/4.0.4 Mobile/7B314 Safari/531.21.10 QuickTime
+
+
+#EXTINF:-1 tvg-id="ext" group-title="ЭФИРНЫЕ"tvg-logo="smb://192.168.0.1/samba/usb1_1/it999_transparent_220x132/НТВ.png",НТВ
+http://a3569458679-zabava-htlive.cdn.ngenix.net/hls/CH_NTV_4/bw2000000/playlist.m3u8?offset=-3600&utcstart=1634256000&version=2|user-agent= stagefright/1.2 (Linux;Android 4.0.3) Mozilla/5.0(iPad; U; CPU iPhone OS 3_2 like Mac OS X; en-us) AppleWebKit/531.21.10 (KHTML, like Gecko) Version/4.0.4 Mobile/7B314 Safari/531.21.10 QuickTime
+
+
+#EXTINF:-1 tvg-id="ext" group-title="ЭФИРНЫЕ"tvg-logo="smb://192.168.0.1/samba/usb1_1/it999_transparent_220x132/Пятый канал.png",Пятый канал
+http://a787201485-zabava-htlive.cdn.ngenix.net/hls/CH_5TV_4/bw2000000/playlist.m3u8?offset=-3600&utcstart=1634256000&version=2|user-agent= stagefright/1.2 (Linux;Android 4.0.3) Mozilla/5.0(iPad; U; CPU iPhone OS 3_2 like Mac OS X; en-us) AppleWebKit/531.21.10 (KHTML, like Gecko) Version/4.0.4 Mobile/7B314 Safari/531.21.10 QuickTime
+
+
+#EXTINF:-1 tvg-id="ext" group-title="ЭФИРНЫЕ"tvg-logo="smb://192.168.0.1/samba/usb1_1/it999_transparent_220x132/Матч ТВ.png",Матч ТВ
+http://a787201486-zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/bw2000000/playlist.m3u8?utcstart=1634248800&version=2|user-agent= stagefright/1.2 (Linux;Android 4.0.3) Mozilla/5.0(iPad; U; CPU iPhone OS 3_2 like Mac OS X; en-us) AppleWebKit/531.21.10 (KHTML, like Gecko) Version/4.0.4 Mobile/7B314 Safari/531.21.10 QuickTime
+
+#EXTINF:-1 tvg-id="ext" group-title="ЭФИРНЫЕ",ТВЦ
+http://a787200764-zabava-htlive.cdn.ngenix.net/hls/CH_TVC_4/bw2000000/playlist.m3u8?offset=-3600&utcstart=1634256000&version=2|user-agent= stagefright/1.2 (Linux;Android 4.0.3) Mozilla/5.0(iPad; U; CPU iPhone OS 3_2 like Mac OS X; en-us) AppleWebKit/531.21.10 (KHTML, like Gecko) Version/4.0.4 Mobile/7B314 Safari/531.21.10 QuickTime
+
+#EXTINF:-1 tvg-id="ext" group-title="ЭФИРНЫЕ",Муз ТВ
+http://a3569458168-rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R02_MUZTV/playlist.m3u8?offset=-3600&utcstart=1634256000&version=2|user-agent= stagefright/1.2 (Linux;Android 4.0.3) Mozilla/5.0(iPad; U; CPU iPhone OS 3_2 like Mac OS X; en-us) AppleWebKit/531.21.10 (KHTML, like Gecko) Version/4.0.4 Mobile/7B314 Safari/531.21.10 QuickTime
+
+#EXTINF:-1 tvg-id="ext" group-title="ЭФИРНЫЕ",Победа
+https://sc.id-tv.kz/Pobeda_36_37.m3u8
+
+#EXTINF:-1 tvg-id="ext" group-title="ЭФИРНЫЕ",Че
+http://a775798352-zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/bw2000000/playlist.m3u8?utcstart=1647450000&version=2|user-agent= stagefright/1.2 (Linux;Android 4.0.3) Mozilla/5.0(iPad; U; CPU iPhone OS 3_2 like Mac OS X; en-us) AppleWebKit/531.21.10 (KHTML, like Gecko) Version/4.0.4 Mobile/7B314 Safari/531.21.10 QuickTime
+
+
+#EXTINF:-1 tvg-id="ext" group-title="ЭФИРНЫЕ",Суббота
+http://a3569456584-zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/bw2000000/playlist.m3u8?utcstart=1647450000&version=2|user-agent= stagefright/1.2 (Linux;Android 4.0.3) Mozilla/5.0(iPad; U; CPU iPhone OS 3_2 like Mac OS X; en-us) AppleWebKit/531.21.10 (KHTML, like Gecko) Version/4.0.4 Mobile/7B314 Safari/531.21.10 QuickTime
+
+
+#EXTINF:-1 tvg-id="ext" group-title="Детские",Карусель
+http://a1311338255-zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_4/bw2000000/playlist.m3u8?offset=-3600&utcstart=1634256000&version=2|user-agent= stagefright/1.2 (Linux;Android 4.0.3) Mozilla/5.0(iPad; U; CPU iPhone OS 3_2 like Mac OS X; en-us) AppleWebKit/531.21.10 (KHTML, like Gecko) Version/4.0.4 Mobile/7B314 Safari/531.21.10 QuickTime
+
+#EXTINF:-1 tvg-id="ext" group-title="Детские",Disney
+http://a3569456590-zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/bw2000000/playlist.m3u8|user-agent= stagefright/1.2 (Linux;Android 4.0.3) Mozilla/5.0(iPad; U; CPU iPhone OS 3_2 like Mac OS X; en-us) AppleWebKit/531.21.10 (KHTML, like Gecko) Version/4.0.4 Mobile/7B314 Safari/531.21.10 QuickTime
+
+
+#EXTINF:-1 tvg-id="ext" group-title="Познавательные"tvg-logo="smb://192.168.0.1/samba/usb1_1/it999_transparent_220x132/National Geographic HD.png",National Geographic
+http://okkotv-live.cdnvideo.ru/channel/NGC_HD.m3u8
+
+#EXTINF:-1 tvg-id="ext" group-title="Познавательные"tvg-logo="smb://192.168.0.1/samba/usb1_1/it999_transparent_220x132/Nat Ge Wild HD.png",Nat Geo Wild
+http://okkotv-live.cdnvideo.ru/channel/NGC_Wild_HD/1080p.m3u8
+
+#EXTINF:-1 tvg-id="ext" group-title="Познавательные" tvg-logo="https://iptvx.one/icn/viasat-history.png" ,Viasat History
+http://okkotv-live.cdnvideo.ru/channel/Viasat_History_ad_HD/1080p.m3u8
+
+#EXTINF:-1 tvg-id="ext" group-title="Познавательные"#EXTINF:-1 group-title="Познавательные" tvg-logo="https://iptvx.one/icn/viasat-explore.png" ,Viasat Explore
+http://okkotv-live.cdnvideo.ru/channel/Viasat_Explore_HD.m3u8
+
+#EXTINF:-1 tvg-id="ext" group-title="Кино",TV 1000 HD
+http://okkotv-live.cdnvideo.ru/channel/TV1000_HD/1080p.m3u8
+
+#EXTINF:-1 tvg-id="ext" group-title="Кино",TV 1000 Action HD
+http://okkotv-live.cdnvideo.ru/channel/TV1000_Action_HD/1080p.m3u8
+
+#EXTINF:-1 tvg-id="ext" group-title="Кино",TV 1000 Русское кино HD
+http://okkotv-live.cdnvideo.ru/channel/TV1000_Rus_Kino_HD/1080p.m3u8
+
+#EXTINF:-1 tvg-id="ext" group-title="Кино",VIP Premiere
+https://okkotv-live.cdnvideo.ru/channel/VIP_Premiere_HD.m3u8
+
+#EXTINF:-1 tvg-id="ext" group-title="Кино",VIP Comedy
+https://okkotv-live.cdnvideo.ru/channel/VIP_Comedy_HD.m3u8
+
+#EXTINF:-1 tvg-id="ext" group-title="Кино",VIP Serial HD
+https://okkotv-live.cdnvideo.ru/channel/VIP_Serial_HD.m3u8
+
+#EXTINF:-1 tvg-id="ext" group-title="Кино",VIP Megahit
+https://okkotv-live.cdnvideo.ru/channel/VIP_Megahit_HD.m3u8
+
+#EXTINF:-1 tvg-id="ext" group-title="Кино",Наше новое кино
+http://213.172.73.170:8081/nimble_live/1048__Nashe_Novoye_Kino/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ext" group-title="Кино",КИНОКОМЕДИЯ
+http://213.172.73.170:8081/nimble_live/1122__Kinokomediya/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ext" group-title="Кино",КИНОМИКС
+http://213.172.73.170:8081/nimble_live/1112__Kinomiks/playlist.m3u8
+
+#EXTINF:-1 group-title="Кино",КИНОПРЕМЬЕРА HD
+http://flu.ttk.mx:9090/Kinopremiera/index.m3u8?token=orh6o
+
+#EXTINF:-1 tvg-id="ext" group-title="Кино",КИНОСВИДАНИЕ
+http://213.172.73.170:8081/nimble_live/1032__Kinosvidaniye/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ext" group-title="Кино",КИНОСЕМЬЯ
+http://213.172.73.170:8081/nimble_live/1098__Kinosemya/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ext" group-title="Кино",КИНОСЕРИЯ
+http://213.172.73.170:8081/nimble_live/1090__Kinoseriya/playlist.m3u8
+
+#EXTINF:-1 ,МУЖСКОЕ КИНО
+http://213.172.73.170:8081/nimble_live/1085__Mujskoye_Kino/playlist.m3u8
+
+#EXTINF:-1 ,КИНО ТВ
+http://193.233.9.49/streams/media/KINO_TV_HD/index.m3u8
+
+#EXTINF:-1 ,HOLLYWOOD HD
+http://213.172.73.171:8081/nimble_live/1179__MGM_HD/playlist.m3u8
+
+#EXTINF:-1 ,СВЕЖАКИ HD
+https://edge-01.kino.watch/fresh/index.m3u8
+
+#EXTINF:-1 ,УЖАСТИК HD
+https://edge-01.kino.watch/horror/index.m3u8
+
+#EXTINF:-1 ,УЖЕ ВИДЕЛ HD
+https://edge-01.kino.watch/hit/index.m3u8
+
+
+
